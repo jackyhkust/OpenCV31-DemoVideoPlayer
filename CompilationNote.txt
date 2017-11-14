@@ -1,0 +1,12 @@
+1. Please include following dll and lib
+opencv_world310.dll
+opencv_world310.lib
+opencv_world310d.dll
+opencv_world310d.lib
+openh264-1.4.0-win64msvc.dll
+
+2 Running example
+Video Output:
+scrProgProj31.exe input.mp4 output.mov 10
+Video Display:
+scrProgProj31.exe input.mp4 10
